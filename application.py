@@ -11,7 +11,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
-application = Flask(__name__, template_folder="C:/Users/Mitesh/CustomerSegmentationML/templates")
+application = Flask(__name__, template_folder="C:/Users/Mitesh/CustomerSegmentationML/templates") #add folder path
 model = pickle.load(open('FinalYear_Project.pk1', 'rb'))
 
 # def load_and_clean_data(file_path):
