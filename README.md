@@ -34,8 +34,8 @@ D:/ME/
 ## 🔧 Setup and Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/mitpatil07/CustomerSegmentationML.git
+cd CustomerSegmentationML
 ```
 
 ### 2️⃣ Install Dependencies
